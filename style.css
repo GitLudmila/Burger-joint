@@ -72,8 +72,10 @@ body{
 
 .hero__elem{
     margin-right: 110px;
-    
     font-weight: 500;
+}
+.hero__elem:not(:last-child){
+    font-size: 25px;
 }
 .hero__elem a{
     color: #000;
