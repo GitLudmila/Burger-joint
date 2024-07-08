@@ -223,7 +223,7 @@ body{
     width: 50px;
     height: 50px;
     background-size: 50px;
-    background-image: url("/VK-Circled.png");
+    background-image: url("vk-circled.png");
 }
 
 .social__link--tg{
